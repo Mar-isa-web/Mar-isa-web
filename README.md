@@ -17,7 +17,7 @@
 
 | 仓库 | 说明 |
 |---|---|
-| 综测小助手（即将开源） | 综测分数自动核算 Web 应用 |
+| [综测小助手](https://github.com/Mar-isa-web/zongce-assistant) | 综测分数自动核算 Web 应用 · [在线试用](https://vermillion-clafoutis-7cbc93.netlify.app/)（切片 1/8 完成） |
 | [dsh-session-delete-tool](https://github.com/Mar-isa-web/dsh-session-delete-tool) | DeepSeek Harness 会话清理命令行工具 |
 | [zero-one](https://github.com/Mar-isa-web/zero-one) | 我的第一个仓库，用来跑通 GitHub 协作流程 |
 

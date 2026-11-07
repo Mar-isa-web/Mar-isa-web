@@ -20,6 +20,7 @@
 
 综测分数自动核算 + 官方表格一键导出（Next.js + TypeScript + SQLite）
 **已上线公网**，服务真实班级 · 224 条评分规则引擎 · v2 由同学试用反馈驱动
+**规则数据已开源**：[zongce-rules](https://github.com/Mar-isa-web/zongce-rules) —— 机器可读的综测规则数据集 ![CI](https://img.shields.io/github/actions/workflow/status/Mar-isa-web/zongce-rules/ci.yml?style=flat-square&label=%E6%95%B0%E6%8D%AE%E9%9B%86CI)
 
 ![CI](https://img.shields.io/github/actions/workflow/status/Mar-isa-web/zongce-assistant/ci.yml?style=flat-square&label=CI) ![Last Commit](https://img.shields.io/github/last-commit/Mar-isa-web/zongce-assistant/main?style=flat-square&label=最近提交)
 
